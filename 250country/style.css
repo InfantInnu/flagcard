@@ -1,0 +1,12 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+.card-design{
+    
+    background: linear-gradient(to right, #00AAFF,#00FF6C);
+}
+
+body{
+  background-color: rgb(47 41 41) !important;
+}
